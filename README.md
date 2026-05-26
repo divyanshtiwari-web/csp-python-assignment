@@ -1,14 +1,20 @@
 # csp-python-assignment
 Constraint Satisfaction Problems (CSP) Assignment
-Name: Shiven Sethi
-Roll No: SE24UCSE227
+
+Name: Divyansh Tiwari
+
+Roll No: SE24UCSE213
+
 Course: Artificial Intelligence
+
 Assignment: Project 4
 
 📌 Project Summary
+
 This project contains Python implementations designed to resolve variations of Constraint Satisfaction Problems (CSP). A CSP framework establishes rules for processing system variables within confined domains, searching for state configurations where all structural rules are successfully satisfied.
 
 🧠 Problems Solved
+
 1. Traditional Australia Map Coloring
 Variables: Regional territories including WA, NT, Q, SA, NSW, V, and T.
 Goal: Backtrack state color assignments to ensure bordering regions never maintain identical matching colors.
