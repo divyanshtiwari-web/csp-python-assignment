@@ -1,8 +1,11 @@
 # Constraint Satisfaction Problems (CSP) Assignment
 
 **Name:** Divyansh Tiwari
-**Roll No:** SE24UCSE213 
-**Course:** Artificial Intelligence  
+
+**Roll No:** SE24UCSE213
+
+**Course:** Artificial Intelligence
+
 **Assignment:** Project 4  
 
 ---
